@@ -1,0 +1,60 @@
+Phase 1: Python Foundations (Must-Have Basics)
+1. Python Basics
+
+Installing Python & using Jupyter Notebook / VS Code
+
+Variables & data types (int, float, string, boolean)
+
+Input / output
+
+Type conversion
+
+2. Control Flow
+
+Conditional statements (if, elif, else)
+
+Loops (for, while)
+
+break, continue, pass
+
+3. Data Structures
+
+Lists
+
+Tuples
+
+Sets
+
+Dictionaries
+
+List comprehensions
+
+4. Functions & Modules
+
+Defining functions
+
+Parameters & return values
+
+Lambda functions
+
+Importing modules
+
+Writing your own modules
+
+5. Object-Oriented Programming
+
+Classes & objects
+
+__init__ method
+
+Inheritance
+
+Encapsulation & polymorphism
+
+6. File Handling & Exceptions
+
+Reading/writing files
+
+CSV & text files
+
+Exception handling (try-except)
